@@ -1,4 +1,11 @@
-## Hi there 👋
+<p align="center">
+    <a href="https://discord.gg/BJtTBNYHpp" alt="Programming and Linux Community">
+        <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge" />
+    </a>
+    <a href="https://techforpalestine.org/learn-more" alt="Stand With Palestine">
+        <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" />
+    </a>
+</p>
 
 <!--
 **NotBocio/NotBocio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
