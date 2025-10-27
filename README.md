@@ -9,7 +9,7 @@
 
 
 ```python 
-⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀                 ⠀Nytril@linux 
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀                 ⠀JustBocio@linux 
 ⠀⠀⠀⠀⠀⠀⠀⢟⡺⠸⣶⠇⠀⠀⠀          ⠀┌───────────────────────────────────┐  
 ⠀⠀⠰⡄⠀⠀⢠⢄⣹⠸⣥⢤⠀⠀⠀⡤⡀⠀          💻 CS student | 🛠️ Linux user  
 ⠰⣏⡇⠧⡀⠙⡈⠑⢭⢊⡕⠋⢰⢲⢀⡇⠗⣲          ❄️ Learning enthusiast
